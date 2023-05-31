@@ -1,0 +1,14 @@
+Taxi-3	Total Earnings: Rs. 1350.0
+BookingID	CustomerID	From	To	PickupTime	DropTime	Amount
+3		1		A	E		1	  5		Rs. 650.0
+3		1		E	D		17	  18		Rs. 200.0
+3		1		D	A		18	  21		Rs. 500.0
+Taxi-2	Total Earnings: Rs. 1300.0
+BookingID	CustomerID	From	To	PickupTime	DropTime	Amount
+2		1		A	E		1	  5		Rs. 650.0
+2		1		E	A		13	  17		Rs. 650.0
+Taxi-1	Total Earnings: Rs. 1350.0
+BookingID	CustomerID	From	To	PickupTime	DropTime	Amount
+1		1		A	E		1	  5		Rs. 650.0
+1		1		E	D		5	  6		Rs. 200.0
+1		1		A	D		9	  12		Rs. 500.0
